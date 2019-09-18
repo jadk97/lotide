@@ -71,5 +71,4 @@ const letterPositions = function(sentence){
     }
   }
   return results;
-}
-
+};
